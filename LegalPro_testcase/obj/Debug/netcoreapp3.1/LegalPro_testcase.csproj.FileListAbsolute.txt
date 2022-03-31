@@ -1,0 +1,13 @@
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/bin/Debug/netcoreapp3.1/LegalPro_testcase.deps.json
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/bin/Debug/netcoreapp3.1/LegalPro_testcase.runtimeconfig.json
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/bin/Debug/netcoreapp3.1/LegalPro_testcase.runtimeconfig.dev.json
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/bin/Debug/netcoreapp3.1/LegalPro_testcase.dll
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/bin/Debug/netcoreapp3.1/LegalPro_testcase.pdb
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.csproj.AssemblyReference.cache
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.AssemblyInfoInputs.cache
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.AssemblyInfo.cs
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.csproj.CoreCompileInputs.cache
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.dll
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.pdb
+/Users/bernie_esquivel/Projects/LegalPro_testcase/LegalPro_testcase/obj/Debug/netcoreapp3.1/LegalPro_testcase.genruntimeconfig.cache

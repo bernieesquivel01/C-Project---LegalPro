@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LegalPro_testcase/1.0.0": {
+        "runtime": {
+          "LegalPro_testcase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegalPro_testcase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

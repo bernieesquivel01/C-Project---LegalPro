@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A52A0000-F35D-4A32-8FB9-F65EF8668A57}|Default">
+  <MonoDevelop.Ide.ItemProperties.LegalPro__testcase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LegalPro_testcase/Program.cs">
+    <Files>
+      <File FileName="LegalPro_testcase/Program.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
